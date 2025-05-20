@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ReactNative/定位功能(expo-location).md",
+                "file": "ReactNative/常用组件(BottomSheet).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "定位功能(expo-location)"
+              "title": "常用组件(BottomSheet)"
             }
           }
         ],
@@ -199,12 +199,14 @@
   },
   "active": "4a5d49efb2e351b6",
   "lastOpenFiles": [
-    "ReactNative/本地储存(async-storage).md",
-    "ReactNative/定位功能(expo-location).md",
-    "ReactNative/全局函數與變量(Context+Helper ).md",
-    "ReactNative/更好的error处理(IResult).md",
-    "ReactNative/🌟React Native 笔记.md",
+    "ReactNative/常用组件(Header).md",
+    "ReactNative/常用组件(BottomSheet).md",
     "TagsUp.md",
+    "ReactNative/定位功能(expo-location).md",
+    "ReactNative/更好的error处理(IResult).md",
+    "ReactNative/本地储存(async-storage).md",
+    "ReactNative/全局函數與變量(Context+Helper ).md",
+    "ReactNative/🌟React Native 笔记.md",
     "未命名/MathHelper.ts.md",
     "未命名/UserHelper.ts.md",
     "未命名.canvas",
