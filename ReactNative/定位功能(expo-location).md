@@ -22,7 +22,7 @@ npx expo install expo-location
 }
 ```
 
-```tsx title:locationHelper
+```tsx title:/src/LocationHelper
 import * as Location from 'expo-location';
 import { IResult } from './IResult';
 

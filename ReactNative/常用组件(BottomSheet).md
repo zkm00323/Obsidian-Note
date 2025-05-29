@@ -1,4 +1,4 @@
-```tsx title:BottomSheet.tsx
+```tsx title:/compoments/BottomSheet.tsx
 import React from 'react'
 import { Modal, StyleSheet, TouchableWithoutFeedback, View } from 'react-native'
 import Animated, {

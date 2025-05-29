@@ -1,4 +1,4 @@
-```tsx title:Header.tsx
+```tsx title:/compoments/Header.tsx
 import React from 'react';
 import { StyleSheet, TouchableOpacity, View } from 'react-native';
 import { ThemedText } from './ThemedText';
