@@ -111,16 +111,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ReactNative/本地储存(async-storage).md",
+                "file": "研究/vlog.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "本地储存(async-storage)"
+              "title": "vlog"
+            }
+          },
+          {
+            "id": "7e36a975e83f5c47",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "资源/截圖 2025-06-23 下午3.32.03.png"
+              },
+              "icon": "lucide-image",
+              "title": "截圖 2025-06-23 下午3.32.03"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -267,45 +279,53 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "de037e86ef5fdde0",
+  "active": "9b3938e5e6ace5df",
   "lastOpenFiles": [
-    "ReactNative/🌟React Native 笔记.md",
-    "ReactNative/全局函數與變量(Context+Helper ).md",
-    "ReactNative/本地储存(async-storage).md",
-    "ReactNative/更好的error处理(IResult).md",
+    "研究/男拍照姿势.md",
+    "研究/男拍照姿势/構圖技巧.md",
+    "研究/男拍照姿势/光線運用.md",
+    "研究/vlog.md",
+    "研究/男拍照姿势/焦段選擇.md",
+    "研究/男拍照姿势/基本技巧.md",
+    "研究/男拍照姿势",
+    "资源/截圖 2025-06-23 下午4.09.06.png",
+    "资源/截圖 2025-06-23 下午3.55.10.png",
+    "资源/截圖 2025-06-23 下午3.38.47.png",
+    "资源/截圖 2025-06-23 下午3.32.03.png",
+    "资源",
+    "资源/截圖 2025-06-23 下午3.20.54.png",
+    "研究",
+    "TagsUp.md",
+    "未命名 1.md",
+    "截圖 2025-05-24 上午8.06.44.png",
     "Yolo/未命名 2.md",
+    "ReactNative/地圖功能(react-native-maps).md",
+    "ReactNative/本地储存(async-storage).md",
+    "ReactNative/列表組件(FlatList).md",
+    "ReactNative/列表組件(FlatList) 1.md",
+    "ReactNative/表情鍵盤組件(EmojiKeyboard).md",
+    "ReactNative/全局函數與變量(Context+Helper ).md",
+    "ReactNative/🌟React Native 笔记.md",
+    "ReactNative/更好的error处理(IResult).md",
     "人生/计划/每日练习.md",
     "Yolo/未命名",
     "Yolo",
     "人生/计划/减脂计划.md",
     "人生/计划/曝露计划.md",
     "人生/计划/待尝试的事情.md",
-    "未命名 1.md",
-    "TagsUp.md",
-    "ReactNative/表情鍵盤組件(EmojiKeyboard).md",
-    "ReactNative/列表組件(FlatList).md",
-    "vlog.md",
     "截圖 2025-05-24 上午8.21.49.png",
     "截圖 2025-05-24 上午8.17.39.png",
     "截圖 2025-05-24 上午8.06.44 1.png",
     "截圖 2025-05-24 上午8.16.44.png",
-    "截圖 2025-05-24 上午8.08.18.png",
-    "截圖 2025-05-24 上午8.06.44.png",
     "人生/日記/日記模板.md",
     "人生/日記/2024-03-26.md",
     "人生/日記",
-    "未命名.md",
     "人生/计划",
     "人生",
-    "ReactNative/地圖功能(react-native-maps).md",
     "ReactNative/定位功能(expo-location).md",
     "ReactNative/常用组件(Header).md",
     "ReactNative/常用组件(BottomSheet).md",
-    "未命名/MathHelper.ts.md",
-    "未命名/UserHelper.ts.md",
     "未命名.canvas",
-    "ReactNative",
-    "create a link.md",
-    "Welcome.md"
+    "ReactNative"
   ]
 }

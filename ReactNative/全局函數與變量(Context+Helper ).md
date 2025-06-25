@@ -33,7 +33,7 @@ export class MathHelper {
 }
 ```
 ```tsx title:/AppContext.tsx
-// AppContext.tsx
+// i.tsx
 
 import { createContext, useContext } from 'react';
 import { MathHelper } from './helpers/MathHelper';
