@@ -123,12 +123,14 @@
             "id": "7e36a975e83f5c47",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "资源/截圖 2025-06-23 下午3.32.03.png"
+                "file": "ReactNative/Cursor啟動器 (launch.json).md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "截圖 2025-06-23 下午3.32.03"
+              "icon": "lucide-file",
+              "title": "Cursor啟動器 (launch.json)"
             }
           }
         ],
@@ -279,8 +281,9 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "9b3938e5e6ace5df",
+  "active": "7e36a975e83f5c47",
   "lastOpenFiles": [
+    "ReactNative/常用组件(BottomSheet).md",
     "研究/男拍照姿势.md",
     "研究/男拍照姿势/構圖技巧.md",
     "研究/男拍照姿势/光線運用.md",
@@ -324,7 +327,6 @@
     "人生",
     "ReactNative/定位功能(expo-location).md",
     "ReactNative/常用组件(Header).md",
-    "ReactNative/常用组件(BottomSheet).md",
     "未命名.canvas",
     "ReactNative"
   ]
